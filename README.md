@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Hamza Rochd @HaRo97
-- 🌱 I’m a Junior iOS Development
+- 👋 Hi, I’m Hamza Rochd @hamzarochd
 - 👨🏻‍💻 Alumni of Apple Developer Academy @UNINA
 - 🖥️ Student at 1337FutureIsLoading @42Network
 - 📫 instagram @hamzarochd
